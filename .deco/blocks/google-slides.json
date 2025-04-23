@@ -1,0 +1,12 @@
+{
+  "__resolveType": "site/apps/deco/google-slides.ts",
+  "auth": {
+    "clientSecret": {
+      "__resolveType": "website/loaders/secret.ts",
+      "encrypted": "71efd732ca93d799be84d6feb27dfdc13ff03c1623abcad314657531c9ce00d37320630390fe0c9fb3e597deeaa71179",
+      "name": "CLIENT_SECRET"
+    },
+    "clientId": "825379424815-bthfr5sfpl4jd96edqq9fg1r6i6ssig5.apps.googleusercontent.com",
+    "redirectUri": "https://localhost--mcp-slides.deco.site"
+  }
+}
