@@ -1,5 +1,4 @@
 import { AppContext } from "site/apps/site.ts";
-import { invoke } from "site/runtime.ts";
 
 export default async function loader(
   _props: unknown,
